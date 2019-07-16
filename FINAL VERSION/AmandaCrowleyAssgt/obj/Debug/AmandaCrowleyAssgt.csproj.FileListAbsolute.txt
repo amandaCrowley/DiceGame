@@ -1,0 +1,43 @@
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.exe.config
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.GameInterface.resources
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.InputBox.resources
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.Properties.Resources.resources
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.csproj.GenerateResource.Cache
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.exe
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.pdb
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.exe
+C:\Users\Amanda\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.pdb
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.exe.config
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.exe
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.pdb
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.exe
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.pdb
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.csprojResolveAssemblyReference.cache
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.InputBox.resources
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.Properties.Resources.resources
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.csproj.GenerateResource.Cache
+C:\Users\c3137540\Documents\Visual Studio 2013\Projects\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.frmGameInterface.resources
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.exe.config
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.exe
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.pdb
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.exe
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.pdb
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.frmGameInterface.resources
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.frmInputBox.resources
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.Properties.Resources.resources
+C:\Users\Amanda\Documents\Uni\INFT 2012\Ass1\AmandaCrowleyAssgt\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.csproj.GenerateResource.Cache
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.exe.config
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.exe
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.pdb
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.exe
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.pdb
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.frmGameInterface.resources
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.frmInputBox.resources
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.Properties.Resources.resources
+C:\Users\Amanda\Documents\Uni\AmandaCrowleyAssgt\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.csproj.GenerateResource.Cache
+H:\New backup 02-16\Uni\OLD UNI STUFF\INFT 2012\Ass1\FINAL VERSION\AmandaCrowleyAssgt\bin\Debug\AmandaCrowleyAssgt.exe.config
+H:\New backup 02-16\Uni\OLD UNI STUFF\INFT 2012\Ass1\FINAL VERSION\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.exe
+H:\New backup 02-16\Uni\OLD UNI STUFF\INFT 2012\Ass1\FINAL VERSION\AmandaCrowleyAssgt\obj\Debug\AmandaCrowleyAssgt.pdb
